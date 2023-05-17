@@ -1,0 +1,15 @@
+C:\Users\Decagon\Desktop\My local repo\Sorting-app\Sorting-app\bin\Debug\net7.0\Sorting-app.exe
+C:\Users\Decagon\Desktop\My local repo\Sorting-app\Sorting-app\bin\Debug\net7.0\Sorting-app.deps.json
+C:\Users\Decagon\Desktop\My local repo\Sorting-app\Sorting-app\bin\Debug\net7.0\Sorting-app.runtimeconfig.json
+C:\Users\Decagon\Desktop\My local repo\Sorting-app\Sorting-app\bin\Debug\net7.0\Sorting-app.dll
+C:\Users\Decagon\Desktop\My local repo\Sorting-app\Sorting-app\bin\Debug\net7.0\Sorting-app.pdb
+C:\Users\Decagon\Desktop\My local repo\Sorting-app\Sorting-app\obj\Debug\net7.0\Sorting-app.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\My local repo\Sorting-app\Sorting-app\obj\Debug\net7.0\Sorting-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\My local repo\Sorting-app\Sorting-app\obj\Debug\net7.0\Sorting-app.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\My local repo\Sorting-app\Sorting-app\obj\Debug\net7.0\Sorting-app.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\My local repo\Sorting-app\Sorting-app\obj\Debug\net7.0\Sorting-app.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\My local repo\Sorting-app\Sorting-app\obj\Debug\net7.0\Sorting-app.dll
+C:\Users\Decagon\Desktop\My local repo\Sorting-app\Sorting-app\obj\Debug\net7.0\refint\Sorting-app.dll
+C:\Users\Decagon\Desktop\My local repo\Sorting-app\Sorting-app\obj\Debug\net7.0\Sorting-app.pdb
+C:\Users\Decagon\Desktop\My local repo\Sorting-app\Sorting-app\obj\Debug\net7.0\Sorting-app.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\My local repo\Sorting-app\Sorting-app\obj\Debug\net7.0\ref\Sorting-app.dll
