@@ -1,0 +1,8 @@
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution10\Solution10\bin\Debug\Solution10.exe.config
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution10\Solution10\bin\Debug\Solution10.exe
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution10\Solution10\bin\Debug\Solution10.pdb
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution10\Solution10\obj\Debug\Solution10.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution10\Solution10\obj\Debug\Solution10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution10\Solution10\obj\Debug\Solution10.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution10\Solution10\obj\Debug\Solution10.exe
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution10\Solution10\obj\Debug\Solution10.pdb

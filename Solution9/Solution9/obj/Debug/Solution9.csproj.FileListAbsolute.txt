@@ -1,0 +1,8 @@
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution9\Solution9\bin\Debug\Solution9.exe.config
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution9\Solution9\bin\Debug\Solution9.exe
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution9\Solution9\bin\Debug\Solution9.pdb
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution9\Solution9\obj\Debug\Solution9.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution9\Solution9\obj\Debug\Solution9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution9\Solution9\obj\Debug\Solution9.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution9\Solution9\obj\Debug\Solution9.exe
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution9\Solution9\obj\Debug\Solution9.pdb

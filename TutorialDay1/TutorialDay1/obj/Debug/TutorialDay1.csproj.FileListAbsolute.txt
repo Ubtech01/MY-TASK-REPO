@@ -1,0 +1,8 @@
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\TutorialDay1\TutorialDay1\bin\Debug\TutorialDay1.exe.config
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\TutorialDay1\TutorialDay1\bin\Debug\TutorialDay1.exe
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\TutorialDay1\TutorialDay1\bin\Debug\TutorialDay1.pdb
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\TutorialDay1\TutorialDay1\obj\Debug\TutorialDay1.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\TutorialDay1\TutorialDay1\obj\Debug\TutorialDay1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\TutorialDay1\TutorialDay1\obj\Debug\TutorialDay1.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\TutorialDay1\TutorialDay1\obj\Debug\TutorialDay1.exe
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\TutorialDay1\TutorialDay1\obj\Debug\TutorialDay1.pdb

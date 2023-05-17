@@ -1,0 +1,8 @@
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\ATM\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\ATM\ATM\obj\Debug\ATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\ATM\ATM\obj\Debug\ATM.pdb

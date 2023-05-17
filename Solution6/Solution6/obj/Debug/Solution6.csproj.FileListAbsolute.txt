@@ -1,0 +1,8 @@
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution6\Solution6\bin\Debug\Solution6.exe.config
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution6\Solution6\bin\Debug\Solution6.exe
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution6\Solution6\bin\Debug\Solution6.pdb
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution6\Solution6\obj\Debug\Solution6.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution6\Solution6\obj\Debug\Solution6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution6\Solution6\obj\Debug\Solution6.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution6\Solution6\obj\Debug\Solution6.exe
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution6\Solution6\obj\Debug\Solution6.pdb

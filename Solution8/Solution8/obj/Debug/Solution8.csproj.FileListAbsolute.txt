@@ -1,0 +1,8 @@
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution8\Solution8\bin\Debug\Solution8.exe.config
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution8\Solution8\bin\Debug\Solution8.exe
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution8\Solution8\bin\Debug\Solution8.pdb
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution8\Solution8\obj\Debug\Solution8.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution8\Solution8\obj\Debug\Solution8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution8\Solution8\obj\Debug\Solution8.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution8\Solution8\obj\Debug\Solution8.exe
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Solution8\Solution8\obj\Debug\Solution8.pdb

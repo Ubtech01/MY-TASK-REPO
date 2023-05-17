@@ -1,0 +1,8 @@
+C:\Users\Decagon\Desktop\WEEK1-TASK\GpaCalculator\GpaCalculator\bin\Debug\GpaCalculator.exe.config
+C:\Users\Decagon\Desktop\WEEK1-TASK\GpaCalculator\GpaCalculator\bin\Debug\GpaCalculator.exe
+C:\Users\Decagon\Desktop\WEEK1-TASK\GpaCalculator\GpaCalculator\bin\Debug\GpaCalculator.pdb
+C:\Users\Decagon\Desktop\WEEK1-TASK\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\WEEK1-TASK\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Decagon\Desktop\WEEK1-TASK\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\WEEK1-TASK\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.exe
+C:\Users\Decagon\Desktop\WEEK1-TASK\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.pdb

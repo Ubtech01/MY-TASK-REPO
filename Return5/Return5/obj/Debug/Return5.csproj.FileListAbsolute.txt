@@ -1,0 +1,8 @@
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Return5\Return5\bin\Debug\Return5.exe.config
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Return5\Return5\bin\Debug\Return5.exe
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Return5\Return5\bin\Debug\Return5.pdb
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Return5\Return5\obj\Debug\Return5.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Return5\Return5\obj\Debug\Return5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Return5\Return5\obj\Debug\Return5.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Return5\Return5\obj\Debug\Return5.exe
+C:\Users\Decagon\Desktop\WALE'S TUTORIAL\Return5\Return5\obj\Debug\Return5.pdb
